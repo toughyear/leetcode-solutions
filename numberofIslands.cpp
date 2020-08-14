@@ -3,7 +3,7 @@ using namespace std;
 
 // TODO: note to self - Keep track of edge cases clearly
 
-//DFS implementation
+//DFS implementation.
 //use & to pass as reference, changing the values directly
 // and not by creating a copy
 
